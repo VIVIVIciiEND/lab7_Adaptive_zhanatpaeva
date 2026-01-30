@@ -1,0 +1,5 @@
+.grid-contatiner {
+  display: grid;
+  /* grid-template-rows: 100px auto auto auto auto 100px; */
+  gap: 20px;
+}
